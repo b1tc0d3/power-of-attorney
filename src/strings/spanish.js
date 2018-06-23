@@ -48,17 +48,17 @@ const SPANISH: TranslateStringsType = {
   partI: 'Parte I:',
   submit: 'Submit',
   Next: 'proximo',
-  formWithErrors: 'The form has {{errorCount}} error(s)',
-  faq: 'Frequently Asked Questions',
+  formWithErrors: 'La froma tiene {{errorCount}} error(es)',
+  faq: 'Preguntas Mas Frecuentes',
   whatIsPOA: 'What is a Power of Attorney?',
   poaIs:
     'A Power of Attorney is a legal document in which a parent authorizes another adult to care for their minor child. By signing a Power of Attorney, the parent does not give up any parental rights.',
   WhatIsThisFormUsedFor: '¿Para que es usada esta forma?',
   formWasCreated:
     'This form was created for immigrant parents in Tennessee who face the threat of being detained and/or deported. It allows parents to grant a caregiver temporary rights to make decisions for their minor child on their behalf. The Power of Attorney goes into effect only if the parents have been detained or deported. Completion of this form, along with the proper signatures, authorizes the caregiver to enroll the child in school, obtain medical treatment for the child, and provide for the child’s food, housing, and travel.',
-  whoShouldIChoose: 'Who should I choose as my caregiver?',
+  whoShouldIChoose: 'A quien escojo como mi cuidador?',
   yourCaregiver:
-    'Your caregiver should be someone you trust. This document will allow the caregiver the right and responsibility to make decisions for your child on your behalf. The person you designate to care for your child should be a U.S. citizen or someone with immigration status who does not also face the threat of detainment or deportation.',
+    'Tu cuidador debe ser alguien en quien confía. This document will allow the caregiver the right and responsibility to make decisions for your child on your behalf. The person you designate to care for your child should be a U.S. citizen or someone with immigration status who does not also face the threat of detainment or deportation.',
   howCanITerminate: '¿Como yo puedo terminar el Poder Notarial?',
   youCanTerminate:
     'You may terminate the Power of Attorney at any time by putting in writing your desire to do so.',
@@ -86,10 +86,10 @@ const SPANISH: TranslateStringsType = {
   doesNotTrack:
     'Your information and privacy is important to us.  This website does not track, keep or otherwise monitor the information inputted.',
   formWasCreatedNote:
-    'NOTE: Each child must have a separate Power of Attorney form.  You cannot use one form for all of your children.',
+    'NOTA: Each child must have a separate Power of Attorney form.  You cannot use one form for all of your children.',
   howMuch: 'How much does a Power of Attorney Cost?',
   howMuchAnswer:
-    'It is free of charge.  There may be a small fee due to the notary public for notarizing the document.',
+    'Es libre de cargo.  There may be a small fee due to the notary public for notarizing the document.',
   privacy: 'Privacy and Confidentiality',
   whatDocuments: 'What documents do I need?',
   whatDocumentsAnswer:
